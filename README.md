@@ -1,4 +1,4 @@
-# CNSM2019-traces
+# Data traces for "Efficient learning on high-dimensional operational data" paper, CNSM 2019
 Here are traces which we used to obtain our results for our paper:
 
 F. S. Samani, H. Zhang, and R. Stadler, "Efficient learning on high-dimensional operational data," in 2019 15th International Conference on Network and Service Management (CNSM), pp. 1{9, IEEE, 2019.
