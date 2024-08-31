@@ -24,7 +24,9 @@ Another set of data traces (**"data - CNSM 2022 - TNSM 2024.zip"**) is related t
 11) Forough Shahab Samani, Rolf Stadler, "Dynamically meeting performance objectives for multiple services on a service mesh," 18th International Conference on Network and Service Management (CNSM), 2022.
 12) Forough Shahab Samani, Rolf Stadler, "A Framework for dynamically meeting performance objectives on a service mesh". IEEE Transactions on Network and Service Management, 2024.
 13) Forough Shahab Samani, Kim Hammar, Rolf Stadler, "Online Policy Adaptation for Networked Systems using Rollout," NOMS 2024-2024 IEEE/IFIP Network Operations and Management Symposium, 2024.
-14) Forough Shahab Samani, Hannes Larsson, Simon Damberg, Andreas Johnsson, Rolf Stadler, "Comparing Transfer Learning and Rollout for Policy Adaptation in a Changing Network Environment," NOMS 2024-2024 IEEE/IFIP Network Operations and Management Symposium, 2024.  
+14) Forough Shahab Samani, Hannes Larsson, Simon Damberg, Andreas Johnsson, Rolf Stadler, "Comparing Transfer Learning and Rollout for Policy Adaptation in a Changing Network Environment," NOMS 2024-2024 IEEE/IFIP Network Operations and Management Symposium, 2024.
+15) Laura Macià Coll, "Efficiently Learning the System Model for Microservice-based Applications," master thesis, KTH Royal Institute of Technology, (2024).
 
+The last set of traces is related to an open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo). This data set is collected by Maria Halvarsson. The data set is **"Online_boutique_application.zip"**. This data set is used in Maria's thesis.
 
-, such as the open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo)
+16) Maria Halvarsson, "Learning End-to-End QoS Metrics for a Microservice Application," master thesis, KTH Royal Institute of Technology, (2024).
