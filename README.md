@@ -11,7 +11,7 @@ These research papers describe the testbed and the KV and VoD services. Later we
 
 2) Forough Shahab Samani, Rolf Stadler. "Predicting Distributions of Service Metrics using Neural Networks," 14th International Conference on Network and Service Management (CNSM), 2018.
 3) Forough Shahab Samani, Rolf Stadler, Andreas Johansson, Christofer Flinta, "Demonstration: Predicting Distributions of Service Metrics," IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2019.
-4) 5) Forough Shahab Samani, Hongyi Zhang, Rolf Stadler, "Efficient Learning on High-dimensional Operational Data," 15th International Conference on Network and Service Management (CNSM), 2019.
+4) Forough Shahab Samani, Hongyi Zhang, Rolf Stadler, "Efficient Learning on High-dimensional Operational Data," 15th International Conference on Network and Service Management (CNSM), 2019.
 5) Forough Shahab Samani, Rolf Stadler, Christofer Flinta, Andreas Johansson, "Conditional Density Estimation of Service Metrics for Networked Services," IEEE Transactions on Network and Service Management, 2021.
 6) Xiaoxuan Wang, Forough Shahab Samani, Rolf Stadler, "Online feature selection for rapid, low-overhead learning in networked systems," 16th International Conference on Network and Service Management (CNSM), 2020.
 7) Xiaoxuan Wang, Forough Shahab Samani, Andreas Johnsson, Rolf Stadler, "Online feature selection for low-overhead learning in networked systems," 17th International Conference on Network and Service Management (CNSM), 2021.
@@ -19,6 +19,9 @@ These research papers describe the testbed and the KV and VoD services. Later we
 9) Xiaoxuan Wang, “Dimensionality reduction for performance prediction in networked systems,” master thesis, KTH Royal Institute of Technology, 2020.
 10) Tang Chen, "Forecasting Service Metrics for Network Services," master thesis, KTH Royal Institute of Technology, (2020).
 
+Another set of data traces is related to microservice-based applications, such as the open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo). We deploy this application as our testbed which is explained mainly in the following publications:
 
+11) Forough Shahab Samani, Rolf Stadler, "Dynamically meeting performance objectives for multiple services on a service mesh," 18th International Conference on Network and Service Management (CNSM), 2022.
+12) Forough Shahab Samani, Rolf Stadler, "A Framework for dynamically meeting performance objectives on a service mesh". IEEE Transactions on Network and Service Management, 2024.
 
 
