@@ -4,7 +4,10 @@ This repository includes data sets used to develop and evaluate data-driven meth
 Data traces **"VoD periodic - CNSM 2015.zip"** and **"VoD flashcrowd - CNSM 2015.zip"** are first collected and used for the research published in:
 1) R. Yanggratoke, J. Ahmed, J. Ardelius, C. Flinta, A. Johnsson, D. Gillblad, and R. Stadler, “Predicting Service Metrics for Cluster-based Services using Real-time Analytics,” in Network and Service Management (CNSM), 2015 11th International Conference on. IEEE, 2015, pp. 135–143.
 
-Details of the testbed and the VoD application are described in this research paper. Later we use this data set for the following research papers:
+Date traces **"KV flashcrowd - JNSM 2017.zip"** and **"KV periodic - JNSM 2017.zip"** are first collected and used for the research published in:
+2) 2) R.  Stadler,  R.  Pasquini,  and  V.  Fodor,  “Learning  from  network  device statistics,” Journal of Network and Systems Management, vol. 25, no. 4, pp. 672–698, 2017.
+
+These research papers describe the testbed and the KV and VoD services. Later we use these data sets for the following research papers:
 
 2) Forough Shahab Samani, Rolf Stadler. "Predicting Distributions of Service Metrics using Neural Networks," 14th International Conference on Network and Service Management (CNSM), 2018.
 3) Forough Shahab Samani, Rolf Stadler, Andreas Johansson, Christofer Flinta, "Demonstration: Predicting Distributions of Service Metrics," IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2019.
@@ -13,7 +16,7 @@ Details of the testbed and the VoD application are described in this research pa
 6) Xiaoxuan Wang, Forough Shahab Samani, Rolf Stadler, "Online feature selection for rapid, low-overhead learning in networked systems," 16th International Conference on Network and Service Management (CNSM), 2020.
 7) Xiaoxuan Wang, Forough Shahab Samani, Andreas Johnsson, Rolf Stadler, "Online feature selection for low-overhead learning in networked systems," 17th International Conference on Network and Service Management (CNSM), 2021.
 
-
+Data traces 
 
 
 
@@ -23,4 +26,3 @@ Traces are colloected from KTH labratory. To collect the traces we run two Video
 
 
 
-2) R.  Stadler,  R.  Pasquini,  and  V.  Fodor,  “Learning  from  network  devicestatistics,”Journal of Network and Systems Management, vol. 25, no. 4,pp. 672–698, 2017.
