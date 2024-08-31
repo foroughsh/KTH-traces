@@ -19,7 +19,7 @@ These research papers describe the testbed and the KV and VoD services. Later we
 9) Xiaoxuan Wang, “Dimensionality reduction for performance prediction in networked systems,” master thesis, KTH Royal Institute of Technology, 2020.
 10) Tang Chen, "Forecasting Service Metrics for Network Services," master thesis, KTH Royal Institute of Technology, (2020).
 
-Another set of data traces (**"data - CNSM 2022 - TNSM 2024.zip"**) is related to a microservice-based application developed by Forough Shahabsamani presented in [our framework and application](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023). We deploy this application as our testbed which is explained mainly in the following publications:
+Another set of data traces (**"data - CNSM 2022 - TNSM 2024.zip"**) is related to a microservice-based application developed by Forough Shahabsamani presented in [our framework and application](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023) and [application use case of the framework](https://github.com/foroughsh/online_policy_adaptation_using_rollout). We deploy this application as our testbed which is explained mainly in the following publications:
 
 11) Forough Shahab Samani, Rolf Stadler, "Dynamically meeting performance objectives for multiple services on a service mesh," 18th International Conference on Network and Service Management (CNSM), 2022.
 12) Forough Shahab Samani, Rolf Stadler, "A Framework for dynamically meeting performance objectives on a service mesh". IEEE Transactions on Network and Service Management, 2024.
