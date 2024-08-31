@@ -15,13 +15,9 @@ These research papers describe the testbed and the KV and VoD services. Later we
 5) Forough Shahab Samani, Rolf Stadler, Christofer Flinta, Andreas Johansson, "Conditional Density Estimation of Service Metrics for Networked Services," IEEE Transactions on Network and Service Management, 2021.
 6) Xiaoxuan Wang, Forough Shahab Samani, Rolf Stadler, "Online feature selection for rapid, low-overhead learning in networked systems," 16th International Conference on Network and Service Management (CNSM), 2020.
 7) Xiaoxuan Wang, Forough Shahab Samani, Andreas Johnsson, Rolf Stadler, "Online feature selection for low-overhead learning in networked systems," 17th International Conference on Network and Service Management (CNSM), 2021.
-
-Data traces 
-
-
-
-
-Traces are colloected from KTH labratory. To collect the traces we run two Video on Demand (VoD) and Key-value (KV) services. You can find more details about these traces in the following pappers:
+8) Zhang, Hongyi. "Efficient learning on high-dimensional operational data." (2019).
+9) Xiaoxuan Wang, “Dimensionality reduction for performance prediction in networked systems,” master thesis, KTH Royal Institute of Technology, 2020.
+10) Tang Chen, "Forecasting Service Metrics for Network Services," master thesis, KTH Royal Institute of Technology, (2020).
 
 
 
