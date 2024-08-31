@@ -6,12 +6,16 @@ Data traces "VoD periodic - CNSM 2015.zip" and "VoD flashcrowd - CNSM 2015.zip" 
 
 Details of the testbed and the VoD application are described in this research paper. Later we use this data set for the following research papers:
 
-2) Forough Shahab Samani}, Rolf Stadler, Christofer Flinta, Andreas Johansson. \textit{``Conditional Density Estimation of Service Metrics for Networked Services"}. IEEE Transactions on Network and Service Management. 2021. 
+2) Forough Shahab Samani, Rolf Stadler. "Predicting Distributions of Service Metrics using Neural Networks," 14th International Conference on Network and Service Management (CNSM), 2018.
+3) Forough Shahab Samani, Rolf Stadler, Christofer Flinta, Andreas Johansson, "Conditional Density Estimation of Service Metrics for Networked Services," IEEE Transactions on Network and Service Management, 2021.
+4) Forough Shahab Samani, Hongyi Zhang, Rolf Stadler, "Efficient Learning on High-dimensional Operational Data," 15th International Conference on Network and Service Management (CNSM), 2019.
+5) Xiaoxuan Wang, Forough Shahab Samani, Rolf Stadler, "Online feature selection for rapid, low-overhead learning in networked systems," 16th International Conference on Network and Service Management (CNSM), 2020.
+6) Xiaoxuan Wang, Forough Shahab Samani, Andreas Johnsson, Rolf Stadler, "Online feature selection for low-overhead learning in networked systems," 17th International Conference on Network and Service Management (CNSM), 2021.
 
-# Data traces for "Efficient learning on high-dimensional operational data" paper, CNSM 2019
-Here are traces which we used to obtain our results for our paper:
 
-F. S. Samani, H. Zhang, and R. Stadler, "Efficient learning on high-dimensional operational data," in 2019 15th International Conference on Network and Service Management (CNSM), pp. 1{9, IEEE, 2019.
+
+
+
 
 Traces are colloected from KTH labratory. To collect the traces we run two Video on Demand (VoD) and Key-value (KV) services. You can find more details about these traces in the following pappers:
 
