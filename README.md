@@ -19,9 +19,12 @@ These research papers describe the testbed and the KV and VoD services. Later we
 9) Xiaoxuan Wang, “Dimensionality reduction for performance prediction in networked systems,” master thesis, KTH Royal Institute of Technology, 2020.
 10) Tang Chen, "Forecasting Service Metrics for Network Services," master thesis, KTH Royal Institute of Technology, (2020).
 
-Another set of data traces is related to microservice-based applications, such as the open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo). We deploy this application as our testbed which is explained mainly in the following publications:
+Another set of data traces (**"data - CNSM 2022 - TNSM 2024.zip"**) is related to a microservice-based application developed by Forough Shahabsamani. We deploy this application as our testbed which is explained mainly in the following publications:
 
 11) Forough Shahab Samani, Rolf Stadler, "Dynamically meeting performance objectives for multiple services on a service mesh," 18th International Conference on Network and Service Management (CNSM), 2022.
 12) Forough Shahab Samani, Rolf Stadler, "A Framework for dynamically meeting performance objectives on a service mesh". IEEE Transactions on Network and Service Management, 2024.
+13) Forough Shahab Samani, Kim Hammar, Rolf Stadler, "Online Policy Adaptation for Networked Systems using Rollout," NOMS 2024-2024 IEEE/IFIP Network Operations and Management Symposium, 2024.
+14) Forough Shahab Samani, Hannes Larsson, Simon Damberg, Andreas Johnsson, Rolf Stadler, "Comparing Transfer Learning and Rollout for Policy Adaptation in a Changing Network Environment," NOMS 2024-2024 IEEE/IFIP Network Operations and Management Symposium, 2024.  
 
 
+, such as the open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo)
