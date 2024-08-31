@@ -27,6 +27,6 @@ Another set of data traces (**"data - CNSM 2022 - TNSM 2024.zip"**) is related t
 14) Forough Shahab Samani, Hannes Larsson, Simon Damberg, Andreas Johnsson, Rolf Stadler, "Comparing Transfer Learning and Rollout for Policy Adaptation in a Changing Network Environment," NOMS 2024-2024 IEEE/IFIP Network Operations and Management Symposium, 2024.
 15) Laura Macià Coll, "Efficiently Learning the System Model for Microservice-based Applications," master thesis, KTH Royal Institute of Technology, (2024).
 
-The last set of traces is related to an open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo). This data set is collected by Maria Halvarsson. The data set is **"Online_boutique_application.zip"**. This data set is used in Maria's thesis.
+The last set of traces is related to an open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo). This data set is collected by Maria Halvarsson. The data set is **"Online_boutique_application.zip"**. These datasets are explained and used in Maria's thesis.
 
 16) Maria Halvarsson, "Learning End-to-End QoS Metrics for a Microservice Application," master thesis, KTH Royal Institute of Technology, (2024).
