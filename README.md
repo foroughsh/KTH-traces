@@ -32,3 +32,12 @@ The last set of traces is related to an open-source application called "online b
 16) Maria Halvarsson, "Learning End-to-End QoS Metrics for a Microservice Application," master thesis, KTH Royal Institute of Technology, (2024).
 
 # Example: Traces used in TNSM2024 paper "A Framework for dynamically meeting performance objectives on a service mesh"
+As we describe in more detail on these two pages [our framework and application](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023) and [application use case of the framework](https://github.com/foroughsh/online_policy_adaptation_using_rollout), in this paper, we describe a framework designed to control networked systems automatically. In this framework, we follow 6 steps:
+1) Select a scenario and formulate the RL model
+2) Run the scenario on the testbed and collect monitoring data
+3) Use monitoring data and learn the system model
+4) Simulate the scenario and learn the control policy
+5) Evaluate learned policy on the simulator
+6) Evaluate learned policy on the testbed
+
+We define 4 scenarios, the first 3 scenarios are published in the CNSM 2022 paper "Dynamically meeting performance objectives for multiple services on a service mesh", and the name of the trace collected for these scenarios are in the file **data_CNSM_2024.csv**. To collect the traces from the testbed, we run experiments in the testbed and monitor the system for a specific time duration (see [data collection](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023/tree/master/src/A_framework_for_meeting_MO_TNSM2023/data_collection)). We use this trace to learn the system model (see [training the system model](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023/tree/master/src/A_framework_for_meeting_MO_TNSM2023/system_model)). Using this system model, we set up a simulator and train an RL agent in this simulator (see [train RL agent](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023/tree/master/src/A_framework_for_meeting_MO_TNSM2023/learn_ppo_policy)). 
