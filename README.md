@@ -31,4 +31,4 @@ The last set of traces is related to an open-source application called "online b
 
 16) Maria Halvarsson, "Learning End-to-End QoS Metrics for a Microservice Application," master thesis, KTH Royal Institute of Technology, (2024).
 
-# Example: How traces are used in TNSM2024 paper "A Framework for dynamically meeting performance objectives on a service mesh"
+# Example: Traces used in TNSM2024 paper "A Framework for dynamically meeting performance objectives on a service mesh"
