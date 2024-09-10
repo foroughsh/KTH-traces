@@ -31,7 +31,7 @@ The last set of traces is related to an open-source application called "online b
 
 16) Maria Halvarsson, "Learning End-to-End QoS Metrics for a Microservice Application," master thesis, KTH Royal Institute of Technology, (2024).
 
-# Example: Traces used in TNSM2024 paper "A Framework for dynamically meeting performance objectives on a service mesh"
+# Example: Traces used in TNSM2024 paper ["A Framework for dynamically meeting performance objectives on a service mesh"](https://ieeexplore.ieee.org/abstract/document/10612769)
 As we describe in more detail on these two pages [our framework and application](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023) and [application use case of the framework](https://github.com/foroughsh/online_policy_adaptation_using_rollout), in this paper, we describe a framework designed to control networked systems automatically. In this framework, we follow 6 steps:
 1) Select a scenario and formulate the RL model
 2) Run the scenario on the testbed and collect monitoring data
