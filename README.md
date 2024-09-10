@@ -5,7 +5,7 @@ Data traces **"VoD periodic - CNSM 2015.zip"** and **"VoD flashcrowd - CNSM 2015
 1) R. Yanggratoke, J. Ahmed, J. Ardelius, C. Flinta, A. Johnsson, D. Gillblad, and R. Stadler, “Predicting Service Metrics for Cluster-based Services using Real-time Analytics,” in Network and Service Management (CNSM), 2015 11th International Conference on. IEEE, 2015, pp. 135–143.
 
 Date traces **"KV flashcrowd - JNSM 2017.zip"** and **"KV periodic - JNSM 2017.zip"** are first collected and used for the research published in:
-2) 2) R.  Stadler,  R.  Pasquini,  and  V.  Fodor,  “Learning  from  network  device statistics,” Journal of Network and Systems Management, vol. 25, no. 4, pp. 672–698, 2017.
+2) R.  Stadler,  R.  Pasquini,  and  V.  Fodor,  “Learning  from  network  device statistics,” Journal of Network and Systems Management, vol. 25, no. 4, pp. 672–698, 2017.
 
 These research papers describe the testbed and the KV and VoD services. Later we use these data sets for the following research papers:
 
@@ -30,3 +30,5 @@ Another set of data traces (**"data - CNSM 2022 - TNSM 2024.zip"**) is related t
 The last set of traces is related to an open-source application called "online boutique" (https://github.com/GoogleCloudPlatform/microservices-demo). This data set is collected by Maria Halvarsson. The data set is **"Online_boutique_application.zip"**. These datasets are explained and used in Maria's thesis.
 
 16) Maria Halvarsson, "Learning End-to-End QoS Metrics for a Microservice Application," master thesis, KTH Royal Institute of Technology, (2024).
+
+# Example: How traces are used in TNSM2024 paper "A Framework for dynamically meeting performance objectives on a service mesh"
