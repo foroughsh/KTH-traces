@@ -61,3 +61,9 @@ The figure below shows the implementation of the services on the testbed. All no
 <p align="center">
 <img src="https://github.com/foroughsh/KTH-traces/blob/master/images/application.png" width="400"/>
 </p>
+
+The figure below shows the distribution of the response times of service requests for one of the information services $S_1$ and $S_2$ and the compute service $S_3$. To produce this figure, we run services on the system for different values of configuration parameters (e.g., routing and scaling) and under varying offered load following the random load pattern explained below.
+
+<p align="center">
+<img src="https://github.com/foroughsh/KTH-traces/blob/master/images/application.png" width="400"/>
+</p>
