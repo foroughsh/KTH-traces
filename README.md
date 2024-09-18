@@ -44,3 +44,12 @@ In this paper, an extension of the CNSM 2022 paper, "Dynamically Meeting Perform
 
 To gather these traces from the testbed, we conducted experiments, monitoring the system for a specific duration (refer to [data collection](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023/tree/master/src/A_framework_for_meeting_MO_TNSM2023/data_collection)). In these traces, the samples are sequentially ordered, with each row representing the aggregated features and target value over a specific time step, such as 5 seconds.
 The collected trace is then used to learn the system model (see [training the system model](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023/tree/master/src/A_framework_for_meeting_MO_TNSM2023/system_model)). Using this system model, we set up a simulator to train a reinforcement learning (RL) agent (see [train RL agent](https://github.com/foroughsh/A_framework_for_meeting_MO_TNSM2023/tree/master/src/A_framework_for_meeting_MO_TNSM2023/learn_ppo_policy)). Once the control policy is learned, we evaluate it on the simulator using the traces employed for generating the paper's figures. Finally, the learned policy is copied to the testbed for evaluation of the policy on the real system. Traces for evaluation of the learned policies presented in the paper are added with the name **TNSM_2024_evaluations.zip**.
+
+## Testbed and application
+
+Hardware and orchestration layers: Our testbed at KTH includes a server cluster connected through a Gigabit Ethernet switch. The cluster contains nine Dell PowerEdge R715 2U servers, each with 64 GB RAM, two 12-core AMD Opteron processors, a 500 GB hard disk, and four 1 GB network interfaces. The tenth machine is a Dell PowerEdge R630 2U with 256 GB RAM, two 12-core Intel Xeon E5-2680 processors, two 1.2 TB hard disks, and twelve 1 GB network interfaces. The figure below shows the software stack. 
+All machines run Ubuntu Server 18.04.6 64 bits and their clocks are synchronized through. The orchestration layer and the service mesh are realized using Kubernetes (K8) and Istio.
+
+<p align="center">
+<img src="https://github.com/foroughsh/online_policy_adaptation_using_rollout/blob/main/documentation/images/data_structure.png" width="700"/>
+</p>
