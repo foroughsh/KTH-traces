@@ -51,5 +51,5 @@ Hardware and orchestration layers: Our testbed at KTH includes a server cluster 
 All machines run Ubuntu Server 18.04.6 64 bits and their clocks are synchronized through. The orchestration layer and the service mesh are realized using Kubernetes (K8) and Istio.
 
 <p align="center">
-<img src="https://github.com/foroughsh/online_policy_adaptation_using_rollout/blob/main/documentation/images/data_structure.png" width="700"/>
+<img src="[https://github.com/foroughsh/online_policy_adaptation_using_rollout/blob/main/documentation/images/data_structure.png](https://github.com/foroughsh/KTH-traces/blob/master/images/SWstack.pdf)" width="500"/>
 </p>
