@@ -59,5 +59,5 @@ Services. Using Istio to handle and route the service requests, we have implemen
 The figure below shows the implementation of the services on the testbed. All nodes are implemented in Python using Flask. The front node provides the web user interface which receives the service requests from the clients and sends responses to these requests. Based on the service type, it invokes an appropriate function on a connected node. Both nodes to the figure's right include the databases for both information services. Therefore, each information service can be accessed through the upper or lower path in the figure. The compute service can be accessed through either of the two processing nodes. Each of the five nodes in this figure is implemented as a Kubernetes pod. 
 
 <p align="center">
-<img src="https://github.com/foroughsh/KTH-traces/blob/master/images/SWstack.png" width="400"/>
+<img src="https://github.com/foroughsh/KTH-traces/blob/master/images/application.png" width="400"/>
 </p>
